@@ -1,6 +1,6 @@
 # Hi, I'm Muzaffar (Victor) 👋
 
-**CS student at Ole Miss, originally from Uzbekistan. I build things that predict, map and route, and I like systems that are small enough to understand all the way down.**
+**CS student at Ole Miss. I build things that predict, map and route, and I like systems that are small enough to understand all the way down.**
 
 [Website](https://muzaffarkhaydarov.com) · [LinkedIn](https://linkedin.com/in/muzaffar-)
 
@@ -34,7 +34,7 @@
 
 ## A bit more about me
 
-- I'm from Uzbekistan and speak English, Uzbek and Russian
+- I speak English, Uzbek and Russian
 - I follow **soccer** closely enough that two of my projects are forecasting models for it
 - I'm interested in **security**
 
