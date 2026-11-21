@@ -10,7 +10,7 @@
 - **Software engineering intern at C Spire** this past summer, on the Billing Applications Team. I'm aiming for another internship in Summer 2027.
 - **Undergraduate researcher in distributed AI systems**: working out how to split a neural network across several machines so inference gets faster, and measuring where it stops paying off
 - **Tech Lead of the AWS Student Builder Club** at Ole Miss, where I run the hands-on build sessions
-- **Section Leader for CSCI 1011**, debugging a lot of student Java every week
+- **Section Leader for CSCI 1011**, debugging a lot of students' Java code every week
 
 ## Things I've built
 
